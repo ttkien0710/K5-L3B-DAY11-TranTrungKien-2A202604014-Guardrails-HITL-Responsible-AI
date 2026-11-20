@@ -1,11 +1,9 @@
 # Day 11 — Controlled Agent Security (2026)
 
-> 👤 **Học viên:** Trần Trung Kiên  
-> 🆔 **MSSV:** 2A202604014  
-> 🏫 **Lớp:** K5-L3B  
-> 🏷️ **Repository:** `K5-L3B-DAY11-TranTrungKien-2A202604014-Guardrails-HITL-Responsible-AI`  
-> 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
-> ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
+- **Học viên:** Trần Trung Kiên  
+- **MSSV:** 2A202604014  
+- **Lớp:** K5-L3B  
+- **Repository:** `K5-L3B-DAY11-TranTrungKien-2A202604014-Guardrails-HITL-Responsible-AI`
 
 ---
 
